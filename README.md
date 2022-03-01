@@ -1,0 +1,1 @@
+This code snippet was copied from https://www.free-css.com/free-css-templates/page272/fruitkha and repurposed. Credit should go to the awesome original developers.
